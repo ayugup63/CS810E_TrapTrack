@@ -1,4 +1,9 @@
 # CS810E_Project
+Coded by:
+Ayushi Gupta
+Shravani Sawant
+
+
 Experimental Setup
 To evaluate the TrapTrack system, experiments were conducted across multiple environments using a consistent setup for browser automation, network interception, and data analysis.
 Tools used and their versions
